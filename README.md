@@ -1,2 +1,3 @@
 # hello-world
-test
+
+This directory is meant as a test. 
